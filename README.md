@@ -9,10 +9,10 @@
 	At the beginning of the project all what I wanted was to reach that stage where you build your application, and from there on troubleshoot your own code. However this road was longer than expected, I had to learn how to write makefiles, gain some understanding of link files, and how to debug using gdb. Moreover, to make my life "easier" I decided that I wanted to use the register model, so no: CMSIS, libraries, etc.
 
 ##setup:
-	[Virtual box](https://www.virtualbox.org/)
-	[Ubuntu](https://ubuntu.com/#download)
-	[Arm GNU Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
-	[stm32f407 discovery board](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+	*[Virtual box](https://www.virtualbox.org/)
+	*[Ubuntu](https://ubuntu.com/#download)
+	*[Arm GNU Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+	*[stm32f407 discovery board](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 		
 ##Learning outcomes:
 	How to run automatic test using the built-in Python interpreter and gdb
