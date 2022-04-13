@@ -13,11 +13,10 @@ At the beginning of the project, all what I wanted was to write some code and co
 * [stm32f407 discovery board](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 		
 ## Learning outcomes:
-How to run automatic test using the built-in Python interpreter and gdb <br/>
-Create custom rules on make files <br/>
-Improve git skills <br/>
-Debug using gdb <br/>
-Write makefiles <br/>
+* How to run automatic test using the built-in Python interpreter and gdb
+* Create custom rules on Makefiles
+* Improve git skills
+* Debug using gdb
 
 
 ![STM32F407](https://www.st.com/bin/ecommerce/api/image.PF252419.en.feature-description-include-personalized-no-cpn-large.jpg)
