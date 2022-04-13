@@ -1,8 +1,7 @@
 # STM32 Playground
 
 ## Motivation:
-I wrote this project in order to learn how to use the arm tool chain using the command line to program and debug ARM STM32 microcontrollers.
-I originally I wanted to use the learning methodology called building blocks, so the project numbering resembles the knowledge stacking from one project to the next.
+I wrote this project to learn how to use the arm tool chain using the command line to program and debug ARM STM32 microcontrollers.
 		
 ## Challenges:
 My previous experience with microcontrollers it was using keil microvision IDE.
